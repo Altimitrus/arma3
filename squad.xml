@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="Nyan">
+<name>Altimit</name>
+<picture>MyLogo.paa</picture>
+<title>Погладь кота</title>
+<member id="76561198070318695" nick="Altimit">
+<name>Altimit - Иван</name>
+<remark>потрогай если хочешь !</remark>
+</member>
+</squad>
